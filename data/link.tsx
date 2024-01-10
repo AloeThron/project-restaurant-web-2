@@ -33,11 +33,11 @@ export const links: Links[] = [
     offset2: -50,
     icon: <FaUser />,
   },
-  {
-    path: "contact",
-    name: "Contact",
-    offset1: 0,
-    offset2: 0,
-    icon: <FaEnvelope />,
-  },
+  // {
+  //   path: "contact",
+  //   name: "Contact",
+  //   offset1: 0,
+  //   offset2: 0,
+  //   icon: <FaEnvelope />,
+  // },
 ];
