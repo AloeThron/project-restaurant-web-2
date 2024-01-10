@@ -1,5 +1,6 @@
 import React from "react";
 import { links } from "@/data/link";
+
 import { Link } from "react-scroll";
 
 type Props = {

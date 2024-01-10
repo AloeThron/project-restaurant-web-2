@@ -2,8 +2,9 @@
 
 import React from "react";
 import Image from "next/image";
+
 import { motion } from "framer-motion";
-import { Button } from "./ui/button";
+import { Button } from "@/components/ui/button";
 import { fadeIn } from "@/variants";
 
 type Props = {};

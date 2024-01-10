@@ -3,12 +3,12 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+
 import { Button } from "./ui/button";
 import { Link as ScrollLink } from "react-scroll";
-import { RiMenu2Line, RiHomeFill } from "react-icons/ri";
+import { RiMenu2Line } from "react-icons/ri";
 import { IoCloseOutline } from "react-icons/io5";
-import { BiSolidFoodMenu } from "react-icons/bi";
-import { FaUser, FaEnvelope } from "react-icons/fa";
+
 import { links } from "@/data/link";
 
 type Props = {

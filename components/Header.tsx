@@ -3,11 +3,12 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+
 import { Link as ScrollLink } from "react-scroll";
 
 import Nav from "./Nav";
 import NavMobile from "./NavMobile";
-import { Button } from "./ui/button";
+import { Button } from "@/components/ui/button";
 
 type Props = {};
 
